@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.devops.phoenix</groupId>
 	<artifactId>devopsdemo</artifactId>
-	<version>${v}</version>
+	<version>${a}</version>
 	<name>devopsdemo</name>
 	<description>Demo project for Spring Boot</description>
 
